@@ -1,1 +1,1 @@
-# My config for zshrc
+# My configs terminal
